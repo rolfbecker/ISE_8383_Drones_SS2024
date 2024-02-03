@@ -18,7 +18,7 @@ Certainly! Designing an **applied robotics course for ROS2** tailored to electri
 
 ## **Applied Robotics Course for ROS2 Curriculum**
 
-### **Week 1-2: Introduction to ROS2 Basics**
+### [**Week 1-2: Introduction to ROS2 Basics**](Topic_01_ROS2_Basics.md)
 - **Objective**: Familiarize students with the Robot Operating System (ROS2) framework.
 - **Topics**:
     - What is ROS2?
