@@ -2,9 +2,9 @@
 Material for the Drone Technology elective module at HSRW. The curriculum is developed with the assistance of Copilot GPT-4.
 
 
-'''
+```
 Bla
-'''
+```
 
 Certainly! Designing a comprehensive **applied robotics course for ROS2** sounds exciting. Let's create a curriculum that covers the essential topics and hands-on experiences for your 4th-semester electrical engineering students. Here's a suggested outline:
 
