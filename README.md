@@ -1,6 +1,8 @@
 # ISE_8383_Drones_SS2024 - DRAFT! (under development)
 Material for the Drone Technology elective module at HSRW. The curriculum is developed with the assistance of Copilot GPT-4.
 
+**PROMPT #01:**
+
 
 ```
 Bla
