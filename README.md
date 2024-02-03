@@ -5,7 +5,7 @@ Material for the Drone Technology elective module at HSRW. The curriculum is dev
 
 
 ```
-Bla
+I would like to design an applied robotics course for ROS2 at a university. It is for an electrical engineering program, 4. semester. The students have no previous knowledge in robotics. The course comprises 12 meetings with 3 hours each. The course should cover intoduction to ROS2 and simulation with Gazebo. Furthermore the students have to assemble, program and use a physical 4 wheeled robot. The robot is based on NVIDIA Jetson for computer vision and equipped with a lidar for SLAM. Please suggest a curriculum.
 ```
 
 Certainly! Designing a comprehensive **applied robotics course for ROS2** sounds exciting. Let's create a curriculum that covers the essential topics and hands-on experiences for your 4th-semester electrical engineering students. Here's a suggested outline:
